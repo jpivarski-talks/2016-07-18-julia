@@ -54,8 +54,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="116.6255"
-     inkscape:cy="214.02602"
+     inkscape:cx="245.19693"
+     inkscape:cy="207.59745"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -63,8 +63,8 @@
      fit-margin-left="10"
      fit-margin-right="10"
      fit-margin-bottom="10"
-     inkscape:window-width="1366"
-     inkscape:window-height="768"
+     inkscape:window-width="731"
+     inkscape:window-height="715"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -199,7 +199,7 @@
          sodipodi:role="line">Java,</tspan></text>
     <path
        style="color:#000000;fill:#efff69;fill-opacity:0.75563905;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 243.07687,547.18466 C 243.42209,531.05412 241.39456,514.47018 246.65755,498.87879 C 249.92393,480.63348 249.13155,460.33794 260.87397,444.85245 C 269.78483,433.4797 276.97069,418.535 291.88042,414.12106 C 300.24906,412.04494 312.1068,414.23831 314.48966,423.84391 C 317.45606,433.79523 317.19942,444.41552 320.48123,454.29578 C 323.85073,472.4384 323.10883,490.97082 323.07687,509.32751 C 314.1198,521.57226 318.39695,537.62568 322.40017,550.88178 C 326.32619,563.34742 327.19418,578.90778 317.25491,588.89741 C 311.44297,596.03088 301.99173,596.6647 294.3333,600.40841 C 281.80448,604.08376 269.15377,596.38431 261.72825,586.64554 C 256.17306,579.7482 250.38715,573.0021 244.83319,566.13827 C 241.36826,560.58695 239.86187,553.20121 243.07687,547.18466 z"
+       d="M 254.50544,547.18466 C 254.85066,531.05412 252.82313,514.47018 258.08612,498.87879 C 261.3525,480.63348 260.56012,460.33794 272.30254,444.85245 C 281.2134,433.4797 288.39926,418.535 303.30899,414.12106 C 311.67763,412.04494 323.53537,414.23831 325.91823,423.84391 C 328.88463,433.79523 328.62799,444.41552 331.9098,454.29578 C 335.2793,472.4384 334.5374,490.97082 334.50544,509.32751 C 325.54837,521.57226 329.82552,537.62568 333.82874,550.88178 C 337.75476,563.34742 338.62275,578.90778 328.68348,588.89741 C 322.87154,596.03088 313.4203,596.6647 305.76187,600.40841 C 293.23305,604.08376 280.58234,596.38431 273.15682,586.64554 C 267.60163,579.7482 261.81572,573.0021 256.26176,566.13827 C 252.79683,560.58695 251.29044,553.20121 254.50544,547.18466 z"
        id="path4944"
        inkscape:connector-curvature="0" />
     <path
@@ -210,13 +210,13 @@
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-       x="262.04391"
+       x="273.47247"
        y="521.92566"
        id="text4805"
        sodipodi:linespacing="105%"><tspan
          sodipodi:role="line"
          id="tspan4807"
-         x="262.04391"
+         x="273.47247"
          y="521.92566">C++</tspan></text>
     <path
        style="color:#000000;fill:#ffa981;fill-opacity:0.75563905;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -310,19 +310,19 @@
          x="440.82843"
          y="321.64096">Lisp</tspan></text>
     <path
-       style="color:#000000;fill:#ffff30;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:0.75686276;fill-rule:nonzero"
-       d="M 251.21973,564.95963 C 255.76845,572.84431 263.38547,578.9304 269.58812,585.67357 C 276.79593,593.22659 288.52983,594.33435 298.1969,592.09705 C 305.71897,587.55776 317.75661,586.26981 316.67372,574.67261 C 315.59602,564.40151 323.90317,553.62819 317.11205,544.05905 C 313.19204,534.7343 302.93403,532.51275 294.00102,533.91534 C 286.1255,539.02823 277.51747,539.98413 268.63912,541.51384 C 261.9192,546.79503 251.0809,547.56424 247.56788,556.09983 C 246.94699,559.06049 246.60045,565.70416 251.21973,564.95963 z"
+       style="color:#000000;fill:#ffff30;fill-opacity:0.75686275;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 262.6483,564.95963 C 267.19702,572.84431 274.81404,578.9304 281.01669,585.67357 C 288.2245,593.22659 299.9584,594.33435 309.62547,592.09705 C 317.14754,587.55776 329.18518,586.26981 328.10229,574.67261 C 327.02459,564.40151 335.33174,553.62819 328.54062,544.05905 C 324.62061,534.7343 314.3626,532.51275 305.42959,533.91534 C 297.55407,539.02823 288.94604,539.98413 280.06769,541.51384 C 273.34777,546.79503 262.50947,547.56424 258.99645,556.09983 C 258.37556,559.06049 258.02902,565.70416 262.6483,564.95963 z"
        id="path3029"
        inkscape:connector-curvature="0" />
     <text
        sodipodi:linespacing="105%"
        id="text4811"
        y="573.1167"
-       x="278.83698"
+       x="290.26553"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"><tspan
          y="573.1167"
-         x="278.83698"
+         x="290.26553"
          id="tspan4813"
          sodipodi:role="line">C</tspan></text>
   </g>
