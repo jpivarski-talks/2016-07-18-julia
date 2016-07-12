@@ -81,13 +81,12 @@
 
 \begin{frame}{Potential stumbling blocks}
 
-\renewcommand{arraystretch}{1.2}
-\begin{tabular}{p{0.4\linewidth} p{0.4\linewidth}}
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{p{0.45\linewidth} p{0.45\linewidth}}
 Julia behavior & HEP expectation \\\hline
-length-$N$ arrays range from $1$ to $N$ & $0$ to $N-1$ for arrays ($1$ to $N$ with $0$ underflow and $N+1$ overflow for histograms) \\
-
-
-
+arrays range from $1$ to $N$ & $0$ to $N-1$ from C arrays, C++ vectors, and Python lists \\
+histogram ({\tt \small hist}) is exclusive on low edge and inclusive on high edge & inclusive on low edge and exclusive on high edge (HBOOK, PAW, ROOT, Numpy) \\
+multidimensional arrays are column-major & row-major C/C++, Numpy default, GPU \\
 \end{tabular}
 
 \end{frame}
