@@ -23,6 +23,7 @@
 \usepackage{tikz}
 \usepackage{listings}
 \usepackage{courier}
+\usepackage{array}
 
 \xdefinecolor{darkblue}{rgb}{0.1,0.1,0.7}
 \xdefinecolor{dianablue}{rgb}{0.18,0.24,0.31}
@@ -79,16 +80,35 @@
 %  \tableofcontents
 %\end{frame}
 
-\begin{frame}{Potential stumbling blocks}
-
+\begin{frame}{Stumbling blocks for data analysts}
+\vspace{0.4 cm}
 \renewcommand{\arraystretch}{1.2}
-\begin{tabular}{p{0.45\linewidth} p{0.45\linewidth}}
-Julia behavior & HEP expectation \\\hline
-arrays range from $1$ to $N$ & $0$ to $N-1$ from C arrays, C++ vectors, and Python lists \\
-histogram ({\tt \small hist}) is exclusive on low edge and inclusive on high edge & inclusive on low edge and exclusive on high edge (HBOOK, PAW, ROOT, Numpy) \\
-multidimensional arrays are column-major & row-major C/C++, Numpy default, GPU \\
+\begin{tabular}{>{\raggedright}p{0.45\linewidth} >{\raggedright\arraybackslash}p{0.45\linewidth}}
+{\bf Julia behavior} & {\bf HEP expectation} \\\hline
+arrays range from $1$ to $N$ & $0$ to $N-1$ from C arrays, C++ vectors, and Python lists \\\hline
+histogram (built-in {\tt \scriptsize hist()}) is exclusive on low edge and inclusive on high edge & inclusive on low edge and exclusive on high edge (HBOOK, PAW, ROOT, Numpy) \\\hline
+multidimensional arrays are column-major & row-major C/C++, Numpy default, GPU \\\hline
+no OOP-like fluent syntax: {\tt \scriptsize event.track(2).hit(12)} $\to$ {\tt \scriptsize hit(track(event, 2), 12)} & physicists have become accustomed to thinking in terms of objects \\\hline
+{\tt \scriptsize elseif} (no space) & C/C++ {\tt \scriptsize else if}; Python {\tt \scriptsize elif}
 \end{tabular}
+\end{frame}
 
+\begin{frame}{Issues for building large packages}
+\vspace{0.4 cm}
+\begin{itemize}
+  \item Since everything is JIT-compiled, some errors are discovered only when they're encountered, such as {\tt \small UndefVarError}.
+
+\vspace{0.2 cm}
+Unit tests need to fill in for missing ``compiler checks,'' and it's hard to guarantee coverage of all potential uses (just like Python programming or C++ templates).
+
+  \item {\tt \small Function} is not a parameterized type, so functions passed as arguments can't be constrained by method signature.
+
+  \item Without methods in data structures (classes), the namespace fills up: I might think I'm defining a new function for my custom data structure, but I'm actually adding methods to a global function of the same name.
+
+  \item Would need formal interfaces (contracts) to get an error if an implementation is incomplete.
+
+  \item Do all packages need to be GitHub repositories ending in {\tt \small .jl}?
+\end{itemize}
 \end{frame}
 
 \end{document}
