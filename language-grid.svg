@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="397.56055"
-   height="393.93066"
+   width="437.56055"
+   height="437.41992"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -53,9 +53,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="219.48264"
-     inkscape:cy="190.53676"
+     inkscape:zoom="0.7"
+     inkscape:cx="239.48264"
+     inkscape:cy="214.02602"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -84,7 +84,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-151.21973,-255.39685)">
+     transform="translate(-131.21973,-235.39685)">
     <path
        style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 350,302.36218 L 350,602.36218"
@@ -105,7 +105,7 @@
          sodipodi:role="line"
          id="tspan4765"
          x="349.51279"
-         y="643.25043"></tspan></text>
+         y="643.25043" /></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
@@ -121,38 +121,39 @@
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
        x="350.37793"
-       y="639.07263"
+       y="659.07263"
        id="text4771"
        sodipodi:linespacing="105%"><tspan
          sodipodi:role="line"
          id="tspan4773"
          x="350.37793"
-         y="639.07263">“bare metal” (reasoning about machine)</tspan></text>
+         y="659.07263">“bare metal” (reasoning about machine)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
        x="349.96484"
-       y="279.07263"
+       y="259.07263"
        id="text4775"
        sodipodi:linespacing="105%"><tspan
          sodipodi:role="line"
          id="tspan4777"
          x="349.96484"
-         y="279.07263">abstract (reasoning about math)</tspan></text>
+         y="259.07263">abstract (reasoning about math)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
        x="-451.98425"
-       y="174.89551"
+       y="154.89551"
        id="text4779"
        sodipodi:linespacing="105%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan4781"
          x="-451.98425"
-         y="174.89551">statically analyze program “early”</tspan></text>
+         y="154.89551">statically analyze program “early”</tspan></text>
     <g
-       id="g4866">
+       id="g4866"
+       transform="translate(20,0)">
       <text
          transform="matrix(0,1,-1,0,0,0)"
          sodipodi:linespacing="105%"
@@ -167,7 +168,7 @@
            sodipodi:role="line">“late” compilation and error-cacthing</tspan></text>
     </g>
     <path
-       style="color:#000000;fill:#ffcc81;fill-opacity:0.75563904999999998;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffcc81;fill-opacity:0.75563905;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 219.32531,383.67113 C 216.90538,368.22504 220.84919,350.97767 233.50366,339.98736 C 243.75374,322.06435 271.71123,318.12762 288.93072,329.64503 C 300.94719,335.96868 312.96153,348.03936 308.90891,361.83333 C 303.71103,384.51833 308.98598,406.29526 309.40602,429.08626 C 308.27685,443.7154 297.60588,456.19171 291.67422,469.11583 C 289.15656,478.5781 283.36853,491.71249 270.29886,489.47934 C 259.06755,489.00561 255.85456,477.27489 246.50974,473.53007 C 235.51992,471.50311 237.0414,458.38866 234.39331,450.30331 C 232.95483,439.67036 230.00596,429.30753 225.76228,419.37009 C 222.22266,407.7287 220.39917,395.70299 219.32531,383.67113 z"
        id="path4936"
        inkscape:connector-curvature="0"
@@ -195,7 +196,7 @@
          id="tspan4801"
          sodipodi:role="line">Java,</tspan></text>
     <path
-       style="color:#000000;fill:#efff69;fill-opacity:0.75563908;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#efff69;fill-opacity:0.75563905;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 243.07687,547.18466 C 243.42209,531.05412 241.39456,514.47018 246.65755,498.87879 C 249.92393,480.63348 249.13155,460.33794 260.87397,444.85245 C 269.78483,433.4797 276.97069,418.535 291.88042,414.12106 C 300.24906,412.04494 312.1068,414.23831 314.48966,423.84391 C 317.45606,433.79523 317.19942,444.41552 320.48123,454.29578 C 323.85073,472.4384 323.10883,490.97082 323.07687,509.32751 C 314.1198,521.57226 318.39695,537.62568 322.40017,550.88178 C 326.32619,563.34742 327.19418,578.90778 317.25491,588.89741 C 311.44297,596.03088 301.99173,596.6647 294.3333,600.40841 C 281.80448,604.08376 269.15377,596.38431 261.72825,586.64554 C 256.17306,579.7482 250.38715,573.0021 244.83319,566.13827 C 241.36826,560.58695 239.86187,553.20121 243.07687,547.18466 z"
        id="path4944"
        inkscape:connector-curvature="0" />
@@ -227,7 +228,7 @@
          id="tspan4813"
          sodipodi:role="line">C</tspan></text>
     <path
-       style="color:#000000;fill:#ffa981;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:0.75563908"
+       style="color:#000000;fill:#ffa981;fill-opacity:0.75563905;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 254.79116,291.47037 C 239.2191,288.4475 223.37169,286.0227 207.54641,286.99994 C 191.85738,288.96166 199.49173,306.88237 193.94323,316.75811 C 185.80374,334.02524 207.21816,340.74149 220.61381,338.62439 C 236.86766,338.98819 253.23671,338.88638 269.08386,334.69989 C 280.65799,335.32357 295.59696,336.04171 295.72528,320.49574 C 302.80562,312.86071 303.58499,296.89687 289.9329,296.90376 C 277.57737,299.38962 272.10308,280.89884 260.43992,291.36582 L 257.65758,291.95994 L 254.79116,291.47037 z"
        id="path4870"
        inkscape:connector-curvature="0" />
