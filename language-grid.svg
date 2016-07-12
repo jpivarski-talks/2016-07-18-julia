@@ -53,8 +53,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="239.48264"
+     inkscape:zoom="1.4"
+     inkscape:cx="116.6255"
      inkscape:cy="214.02602"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -63,8 +63,8 @@
      fit-margin-left="10"
      fit-margin-right="10"
      fit-margin-bottom="10"
-     inkscape:window-width="731"
-     inkscape:window-height="715"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -210,25 +210,14 @@
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-       x="264.12848"
-       y="537.1167"
+       x="262.04391"
+       y="521.92566"
        id="text4805"
        sodipodi:linespacing="105%"><tspan
          sodipodi:role="line"
          id="tspan4807"
-         x="264.12848"
-         y="537.1167">C++</tspan></text>
-    <text
-       sodipodi:linespacing="105%"
-       id="text4811"
-       y="573.1167"
-       x="278.83698"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-       xml:space="preserve"><tspan
-         y="573.1167"
-         x="278.83698"
-         id="tspan4813"
-         sodipodi:role="line">C</tspan></text>
+         x="262.04391"
+         y="521.92566">C++</tspan></text>
     <path
        style="color:#000000;fill:#ffa981;fill-opacity:0.75563905;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 254.79116,291.47037 C 239.2191,288.4475 223.37169,286.0227 207.54641,286.99994 C 191.85738,288.96166 199.49173,306.88237 193.94323,316.75811 C 185.80374,334.02524 207.21816,340.74149 220.61381,338.62439 C 236.86766,338.98819 253.23671,338.88638 269.08386,334.69989 C 280.65799,335.32357 295.59696,336.04171 295.72528,320.49574 C 302.80562,312.86071 303.58499,296.89687 289.9329,296.90376 C 277.57737,299.38962 272.10308,280.89884 260.43992,291.36582 L 257.65758,291.95994 L 254.79116,291.47037 z"
@@ -320,5 +309,21 @@
          id="tspan4993"
          x="440.82843"
          y="321.64096">Lisp</tspan></text>
+    <path
+       style="color:#000000;fill:#ffff30;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:0.75686276;fill-rule:nonzero"
+       d="M 251.21973,564.95963 C 255.76845,572.84431 263.38547,578.9304 269.58812,585.67357 C 276.79593,593.22659 288.52983,594.33435 298.1969,592.09705 C 305.71897,587.55776 317.75661,586.26981 316.67372,574.67261 C 315.59602,564.40151 323.90317,553.62819 317.11205,544.05905 C 313.19204,534.7343 302.93403,532.51275 294.00102,533.91534 C 286.1255,539.02823 277.51747,539.98413 268.63912,541.51384 C 261.9192,546.79503 251.0809,547.56424 247.56788,556.09983 C 246.94699,559.06049 246.60045,565.70416 251.21973,564.95963 z"
+       id="path3029"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="105%"
+       id="text4811"
+       y="573.1167"
+       x="278.83698"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         y="573.1167"
+         x="278.83698"
+         id="tspan4813"
+         sodipodi:role="line">C</tspan></text>
   </g>
 </svg>
