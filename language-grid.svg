@@ -63,9 +63,9 @@
      fit-margin-left="10"
      fit-margin-right="10"
      fit-margin-bottom="10"
-     inkscape:window-width="731"
+     inkscape:window-width="568"
      inkscape:window-height="715"
-     inkscape:window-x="0"
+     inkscape:window-x="792"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -199,7 +199,7 @@
          sodipodi:role="line">Java,</tspan></text>
     <path
        style="color:#000000;fill:#efff69;fill-opacity:0.75563905;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 254.50544,547.18466 C 254.85066,531.05412 252.82313,514.47018 258.08612,498.87879 C 261.3525,480.63348 260.56012,460.33794 272.30254,444.85245 C 281.2134,433.4797 288.39926,418.535 303.30899,414.12106 C 311.67763,412.04494 323.53537,414.23831 325.91823,423.84391 C 328.88463,433.79523 328.62799,444.41552 331.9098,454.29578 C 335.2793,472.4384 334.5374,490.97082 334.50544,509.32751 C 325.54837,521.57226 329.82552,537.62568 333.82874,550.88178 C 337.75476,563.34742 338.62275,578.90778 328.68348,588.89741 C 322.87154,596.03088 313.4203,596.6647 305.76187,600.40841 C 293.23305,604.08376 280.58234,596.38431 273.15682,586.64554 C 267.60163,579.7482 261.81572,573.0021 256.26176,566.13827 C 252.79683,560.58695 251.29044,553.20121 254.50544,547.18466 z"
+       d="M 264.50544,547.18466 C 264.85066,531.05412 262.82313,514.47018 268.08612,498.87879 C 271.3525,480.63348 270.56012,460.33794 282.30254,444.85245 C 291.2134,433.4797 298.39926,418.535 313.30899,414.12106 C 321.67763,412.04494 333.53537,414.23831 335.91823,423.84391 C 338.88463,433.79523 338.62799,444.41552 341.9098,454.29578 C 345.2793,472.4384 344.5374,490.97082 344.50544,509.32751 C 335.54837,521.57226 339.82552,537.62568 343.82874,550.88178 C 347.75476,563.34742 348.62275,578.90778 338.68348,588.89741 C 332.87154,596.03088 323.4203,596.6647 315.76187,600.40841 C 303.23305,604.08376 290.58234,596.38431 283.15682,586.64554 C 277.60163,579.7482 271.81572,573.0021 266.26176,566.13827 C 262.79683,560.58695 261.29044,553.20121 264.50544,547.18466 z"
        id="path4944"
        inkscape:connector-curvature="0" />
     <path
@@ -210,13 +210,13 @@
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
-       x="273.47247"
+       x="283.47247"
        y="521.92566"
        id="text4805"
        sodipodi:linespacing="105%"><tspan
          sodipodi:role="line"
          id="tspan4807"
-         x="273.47247"
+         x="283.47247"
          y="521.92566">C++</tspan></text>
     <path
        style="color:#000000;fill:#ffa981;fill-opacity:0.75563905;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -257,8 +257,8 @@
          x="343.20868"
          y="457.04181">Fortran</tspan></text>
     <path
-       style="color:#000000;fill:#ec9eff;fill-opacity:0.75563905;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 449.41672,474.44912 C 446.94552,448.77043 452.6304,420.84735 440.92052,397.26395 C 432.97814,379.31713 434.37491,358.4103 431.23293,339.05139 C 430.99122,327.64038 428.48278,314.97875 421.20951,306.7169 C 407.78973,301.97279 412.97334,324.868 407.92709,333.18123 C 402.5393,349.23269 396.03652,364.85265 391.91421,381.38788 C 389.30434,397.25043 391.35114,413.50462 391.03946,429.49042 C 391.48334,444.89145 382.60424,459.0492 385.54554,474.61483 C 385.91853,491.60561 391.35192,508.17279 389.39921,525.28691 C 389.42713,541.84959 391.44769,558.74108 396.71917,574.19974 C 400.75651,583.60655 412.27965,592.36147 420.77433,584.8792 C 426.45291,576.00658 430.06481,565.23596 433.36126,554.77352 C 436.39414,543.49997 438.23706,531.73512 442.68187,521.01497 C 442.89125,505.2283 455.87866,490.22943 449.41672,474.44912 z"
+       style="color:#000000;fill:#ec9eff;fill-opacity:0.75563904999999998;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 449.46759,468.52352 C 446.99238,445.57048 452.68649,420.61127 440.9576,399.53112 C 433.00232,383.48926 434.40136,364.80156 431.25428,347.4975 C 431.01218,337.2977 428.49966,325.98003 421.21459,318.59513 C 407.77302,314.35458 412.96504,334.81959 407.91061,342.25041 C 402.51406,356.59811 396.00073,370.56009 391.87173,385.34021 C 389.25762,399.51903 391.30774,414.04794 390.99555,428.33694 C 391.44016,442.10323 382.54665,454.75822 385.49272,468.67164 C 385.86631,483.85895 391.30852,498.66762 389.35264,513.96518 C 389.38061,528.76982 391.40445,543.86837 396.68449,557.68618 C 400.72838,566.09451 412.27023,573.92015 420.7787,567.23208 C 426.4665,559.30124 430.08426,549.67386 433.38606,540.32194 C 436.42387,530.24502 438.26978,519.72894 442.72181,510.14667 C 442.93153,496.03567 455.94002,482.62884 449.46759,468.52352 z"
        id="path4961"
        inkscape:connector-curvature="0" />
     <path
@@ -311,18 +311,18 @@
          y="321.64096">Lisp</tspan></text>
     <path
        style="color:#000000;fill:#ffff30;fill-opacity:0.75686275;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 262.6483,564.95963 C 267.19702,572.84431 274.81404,578.9304 281.01669,585.67357 C 288.2245,593.22659 299.9584,594.33435 309.62547,592.09705 C 317.14754,587.55776 329.18518,586.26981 328.10229,574.67261 C 327.02459,564.40151 335.33174,553.62819 328.54062,544.05905 C 324.62061,534.7343 314.3626,532.51275 305.42959,533.91534 C 297.55407,539.02823 288.94604,539.98413 280.06769,541.51384 C 273.34777,546.79503 262.50947,547.56424 258.99645,556.09983 C 258.37556,559.06049 258.02902,565.70416 262.6483,564.95963 z"
+       d="M 272.6483,564.95963 C 277.19702,572.84431 284.81404,578.9304 291.01669,585.67357 C 298.2245,593.22659 309.9584,594.33435 319.62547,592.09705 C 327.14754,587.55776 339.18518,586.26981 338.10229,574.67261 C 337.02459,564.40151 345.33174,553.62819 338.54062,544.05905 C 334.62061,534.7343 324.3626,532.51275 315.42959,533.91534 C 307.55407,539.02823 298.94604,539.98413 290.06769,541.51384 C 283.34777,546.79503 272.50947,547.56424 268.99645,556.09983 C 268.37556,559.06049 268.02902,565.70416 272.6483,564.95963 z"
        id="path3029"
        inkscape:connector-curvature="0" />
     <text
        sodipodi:linespacing="105%"
        id="text4811"
        y="573.1167"
-       x="290.26553"
+       x="300.26553"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"><tspan
          y="573.1167"
-         x="290.26553"
+         x="300.26553"
          id="tspan4813"
          sodipodi:role="line">C</tspan></text>
   </g>
